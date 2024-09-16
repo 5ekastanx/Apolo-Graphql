@@ -1,5 +1,5 @@
 <h1 align="center">Apolo-Graphql Project 🚀</h1>
-
+ 
 <p align="center">
   A simple GraphQL API built with Django, React, and Apollo Client.
 </p>
